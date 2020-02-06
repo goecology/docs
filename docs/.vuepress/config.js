@@ -1,5 +1,5 @@
 module.exports = {
-    title: 'goEcology',
+    title: 'GoEcology',
     description: '',
     markdown: {
       lineNumbers: true // 代码块显示行号
@@ -21,6 +21,15 @@ module.exports = {
         }
       ],
       sidebar: [
+          {
+              title: 'Summary',   // 必要的
+              path: '/summary/',      // 可选的, 应该是一个绝对路径
+              collapsable: true, // 可选的, 默认值是 true,
+              sidebarDepth: 1,    // 可选的, 默认值是 1
+              children: [
+                  '/ecology/summary/intro',
+              ]
+          },
         {
           title: 'ecology',   // 必要的
           path: '/ecology/',      // 可选的, 应该是一个绝对路径
