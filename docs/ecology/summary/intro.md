@@ -3,15 +3,18 @@ GO是一门比较新的语言，周边生态并不是很完善，许多初学者
 
 ## 目标
 ### 业务类型
-[x] 商城
-[ ] 问答
-[ ] 读书
-[ ] 社交
+- [x] [商城](https://github.com/goecology/egoshop)
+- [ ] 问答
+- [ ] 读书
+- [ ] 社交
 
 ### 基础类型
-[x] 脚手架
-[x] Oss
-[x] WebHook
+- [x] [脚手架](https://github.com/goecology/muses)
+- [x] [Oss](https://github.com/goecology/oss-pic)
+- [x] [WebHook](https://github.com/goecology/webhook)
+ 
+ ### Doc
+ - [x] [脚手架](https://github.com/goecology/docs)
  
 ## 技术栈
 * go
