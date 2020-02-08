@@ -1,6 +1,16 @@
 module.exports = {
     title: 'GoEcology',
     description: '',
+    head: [
+      ['script', { type: "text/javascript" }, `var _hmt = _hmt || [];
+      (function() {
+        var hm = document.createElement("script");
+        hm.src = "https://hm.baidu.com/hm.js?7c04d443d1967ff13bea347d4744c1c7";
+        var s = document.getElementsByTagName("script")[0]; 
+        s.parentNode.insertBefore(hm, s);
+      })();
+      `]
+    ],
     markdown: {
       lineNumbers: true // 代码块显示行号
     },
