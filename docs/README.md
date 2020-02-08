@@ -2,7 +2,7 @@
 home: true
 heroImage: /logo.jpg
 actionText: 快速上手 →
-actionLink: /ecology/
+actionLink: /summary/
 heroText: GoEcology
 tagline:
 sidebar: auto
