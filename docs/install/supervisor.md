@@ -1,4 +1,5 @@
 # 安装supervisor
+
 ## 1 概述
 
 systemd和supervisor都可以作为守护进程，但是systemd用不了程序的高亮命令行日志，所以还是喜欢supervisor。。。
