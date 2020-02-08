@@ -22,7 +22,7 @@ module.exports = {
       ],
       sidebar: [
           {
-              title: 'Summary',   // 必要的
+              title: '概览',   // 必要的
               path: '/summary/',      // 可选的, 应该是一个绝对路径
               collapsable: true, // 可选的, 默认值是 true,
               sidebarDepth: 1,    // 可选的, 默认值是 1
@@ -31,7 +31,7 @@ module.exports = {
               ]
           },
         {
-          title: 'ecology',   // 必要的
+          title: '商城',   // 必要的
           path: '/ecology/',      // 可选的, 应该是一个绝对路径
           collapsable: true, // 可选的, 默认值是 true,
           sidebarDepth: 1,    // 可选的, 默认值是 1
@@ -40,6 +40,16 @@ module.exports = {
             '/ecology/egoshop/second',
           ]
         },
+          {
+              title: '安装',   // 必要的
+              path: '/install/',      // 可选的, 应该是一个绝对路径
+              collapsable: true, // 可选的, 默认值是 true,
+              sidebarDepth: 1,    // 可选的, 默认值是 1
+              children: [
+                  '/ecology/install/golang',
+                  '/ecology/install/antdesign',
+              ]
+          },
         // {
         //   title: 'Group 2',   // 必要的
         //   path: '/foo/',      // 可选的, 应该是一个绝对路径
