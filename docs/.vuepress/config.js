@@ -7,16 +7,12 @@ module.exports = {
     themeConfig: {
       nav: [{
           text: '生态',
-          link: '/ecology/'
+          link: '/summary/'
         },
         {
           text: '了解更多',
           items: [
             { text: 'Github', link: 'https://github.com/goecology' },
-            {
-              text: '语雀专栏',
-              link: 'https://www.yuque.com/goecology'
-            }
           ]
         }
       ],
