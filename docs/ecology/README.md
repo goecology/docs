@@ -66,7 +66,7 @@
 ### 3.1 二进制包安装
 
 ```
-wget https://github.com/goecology/egoshop0.1.0.tar.gz
+wget https://github.com/goecology/egoshop0.1.0.tar.gz(todo 2月10日晚上release二进制包)
 tar xvf egoshop0.1.0.tar.gz
 ./egoshop install
 ./egoshop start
