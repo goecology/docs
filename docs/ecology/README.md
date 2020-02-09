@@ -1,6 +1,6 @@
 ## 1 概述
 
-EGoShop 是GO语言实现的商城项目。
+[EGoShop](https://github.com/goecology/egoshop) 是GO语言实现的商城项目。
 
 目前业界大部分商城项目都是PHP或者Java的商城项目，但很少有比较完善的Go的商城项目。
 
@@ -8,9 +8,11 @@ EGoShop 是GO语言实现的商城项目。
 
 ## 2 介绍
 
-EGoShop使用了GO，Vue，React技术，Gin，Uniapp，Ant Deign Pro框架。使得我们的系统更加易于部署，开发和维护。
+[EGoShop](https://github.com/goecology/egoshop)使用了GO，Vue，React技术，Gin，Uniapp，Ant Deign Pro框架。使得我们的系统更加易于部署，开发和维护。
 
 ### 2.1 演示环境
+
+* [项目地址](https://github.com/goecology/egoshop)
 
 * [文档地址](http://doc.egoshop.questionfans.com/)
 * 小程序地址
