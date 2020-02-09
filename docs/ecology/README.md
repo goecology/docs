@@ -24,7 +24,11 @@
 
 #### 小程序截图
 
+![adminant](../static/miniwechat1.png)![adminant](../static/miniwechat2.png)
+
 #### 后台截图
+
+![adminant](../static/adminant.png)
 
 #### 监控截图
 
