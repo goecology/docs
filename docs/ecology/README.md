@@ -79,17 +79,17 @@ todo
 ```
 在自己的mysql里创建一个egoshop的数据库
 
-make local.createdb # 创建自己数据库结构
+在自己的mysql里创建一个egoshop的数据库
 
-make local.mockdb # 同步db数据
+make install # 创建自己数据库结构
 
-make go.api # 运行小程序的go程序
+make go # 运行go程序
 
 make wechat # 运行小程序
 
-make go.admin # 运行admin的go程序
-
 make ant # 运行后台
+
+make all # 全部编译
 ```
 
 ## 7 加入我们
