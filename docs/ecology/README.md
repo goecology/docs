@@ -4,7 +4,7 @@
 
 目前业界大部分商城项目都是PHP或者Java的商城项目，但很少有比较完善的Go的商城项目。
 
-因此我们参考了业界的[Fashop](https://github.com/mojisrc/fashop)项目，经过一些改造后，完成了[EGoShop](https://github.com/mojisrc/fashop)。
+因此我们参考了业界的[Fashop](https://github.com/mojisrc/fashop)项目和[ThorUI](https://github.com/dingyong0214/ThorUI-uniapp)，经过一些改造后，完成了[EGoShop](https://github.com/mojisrc/fashop)。
 
 ## 2 介绍
 
