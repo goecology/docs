@@ -1,7 +1,8 @@
 # 分类：
 
-## 作为系统中的基本重要属性，满足商城，信息，部门，等其他类型。所有类型都使用此分类。
-### 分类属性
+作为系统中的基本重要属性，满足商城，信息，部门，等其他类型。所有类型都使用此分类。
+
+## 分类属性
 ~~~
  category
 [
@@ -23,7 +24,7 @@ createtime:	    datetime    #建立时间
 updatetime:	    datetime    #更新时间
 ]
 ~~~
-### code 分类之类型
+## 分类之类型
 ~~~
 const (
     Cate_Type_Goods     = 1
@@ -36,7 +37,7 @@ const (
 )
 ~~~
 
-### code 分类之状态
+## 分类之状态
 ~~~
 const (
     Cate_Status_Delete    = -1
